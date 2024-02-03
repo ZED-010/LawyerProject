@@ -359,7 +359,7 @@ body{
     color: #21243D;
 }
 
-/** Media until the end **/
+/** Media **/
 
 @media (max-width: 1512px) {
     .navbar-brand{
